@@ -23,7 +23,7 @@ A cross-distribution installer script for IBM Plex Mono Nerd Font that works on 
 1. **Download the script**:
 
    ```bash
-   curl -O https://raw.githubusercontent.com/[your-username]/nerd-font-installer/main/install_ibm_plex_mono_nerd.sh
+   curl -O https://github.com/AL3XZIG/Nerd-fond-installing-script/blob/main/install_ibm_plex_mono_nerd.sh
    ```
 
 2. **Make it executable**:
